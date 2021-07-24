@@ -1,1 +1,0 @@
-# https://chudakovos.github.io/rsschool-cv/cv
